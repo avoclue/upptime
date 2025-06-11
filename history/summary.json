@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codepolitan-watcher.herokuapp.com.ico",
     "slug": "watcher",
     "status": "down",
-    "uptime": "6.72%",
+    "uptime": "6.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 236,
-    "timeDay": 293,
-    "timeWeek": 301,
-    "timeMonth": 248,
+    "timeDay": 84,
+    "timeWeek": 267,
+    "timeMonth": 240,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-06-10": 87,
+      "2025-06-11": 87,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -379,8 +380,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   }
 ]
